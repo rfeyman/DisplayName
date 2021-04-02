@@ -1,3 +1,6 @@
+/**
+ * This displays name on Microbit.
+ */
 basic.forever(function () {
-    basic.showString("My name is Richard Feyman")
+    basic.showString("MY NAME IS RICHARD FEYMAN")
 })
